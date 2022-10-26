@@ -1,24 +1,13 @@
-# kassim-ouattara-turnstyle
+# Kassim Ouattara Turnstyle Assessment
+
+Survey built in Vue 3 (Composition API) and Pinia
 
 ## Project setup
 ```
-npm install
+Download ZIP
+Unzip the folder
+in your terminal, cd into the folder
+run the command: npm install
+run the command: npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
